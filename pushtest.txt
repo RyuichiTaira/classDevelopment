@@ -1,0 +1,4 @@
+C:/Users/s2108/github/pushtest/pushtest.txt/
+push test.txtの内容
+
+push test!				
