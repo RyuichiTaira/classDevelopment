@@ -1,0 +1,5 @@
+GRANT ALL ON practice.* TO "tennisuser"@"localhst" IDENTIFIED BY "saya0526";
+
+GRANT ALL ON practice.* TO 'ryuichi'@'localhost' IDENTIFIED BY 'saya0526';
+
+INSERT INTO bbs(name, title, body, date, pass) VALUES("平良龍一", "練習", "aaa", now(), "1234");

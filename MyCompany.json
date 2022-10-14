@@ -1,0 +1,10 @@
+{
+    "companyName": "hoge.inc",
+    "CEO": "Hara-chan",
+    "history": {
+        "born": {
+            "year": "1980",
+            "place": "東京"
+        }
+    }
+}

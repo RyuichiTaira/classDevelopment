@@ -5,7 +5,6 @@
         <link rel = "stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
         <meta charset="UTF-8">
     </head>
-
     <body>
         <h1>アンケート送信テスト</h1>
         <form action="post.php" method="post">
@@ -28,5 +27,4 @@
             <input type="submit" value="送信">
         </form>
     </body>
-
 </html>
